@@ -73,6 +73,6 @@ jobs:
         uses: azure/webapps-deploy@v3
         id: deploy-to-webapp
         with:
-          app-name: 'Emotion-Classifier'
+          app-name: 'Emotion-Classifier/emotion_classifier_app.py'
           slot-name: 'Production'
           
