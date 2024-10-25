@@ -1,5 +1,5 @@
-spacy
-scikit-learn
-numpy
-gensim
-streamlit
+spacy==3.8.2
+scikit-learn==1.5.2
+numpy==1.26.4
+gensim==4.3.3
+streamlit==1.39.0
